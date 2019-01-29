@@ -2,3 +2,6 @@ Movie ticket bill added by shanthihruday on 28th Jan 2019.
 Bill amount $100.00
 
 Hotel bill added $200.00
+
+Flight ticket bill added $346.00
+
