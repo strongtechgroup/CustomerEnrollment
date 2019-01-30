@@ -6,3 +6,4 @@ Hotel bill added $200.00
 Aeroplate ticket added worth $345.00
 
 added new school bill of $1000.00
+added insurance bill of $200.00
