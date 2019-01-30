@@ -3,5 +3,4 @@ Bill amount $100.00
 
 Hotel bill added $200.00
 
-Flight ticket bill added $346.00
-
+Aeroplate ticket added worth $345.00
